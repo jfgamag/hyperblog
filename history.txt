@@ -1,0 +1,8 @@
+My name is Juan Felipe Gama
+
+I am 28 years old
+
+Currently I'm starting to learn about programming
+specifically Python, but I'm going to learn SQL 
+and about Git and Github.
+
